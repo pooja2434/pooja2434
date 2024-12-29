@@ -26,7 +26,7 @@ This project contains [SQL examples](https://github.com/pooja2434/SQL-Projects) 
 I am expanding my skill set by learning PySpark and working on big data projects to tackle larger datasets and complex processing tasks.
 
 📬 Contact Me
-LinkedIn: [My Profile](www.linkedin.com/in/pooja-ravi-11a449204)  
+LinkedIn: [Profile](https://www.linkedin.com/in/pooja-ravi-11a449204/)  
 Tableau Public: [My Profile](https://public.tableau.com/app/profile/pooja2481/vizzes)
 Email: pjravilakshmi@gmail.com
 
