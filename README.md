@@ -18,7 +18,7 @@
 1. SQL Examples
 This project contains [SQL examples](https://github.com/pooja2434/SQL-Projects) designed for beginners and intermediate users. It utilizes sample datasets and includes queries that demonstrate:
 
-  * [Table Creation (Primary Key, Foreign Key, Unique](https://github.com/pooja2434/SQL-Projects/blob/main/Table%20Creation.sql)
+  * [Table Creation (Primary Key, Foreign Key, Unique)](https://github.com/pooja2434/SQL-Projects/blob/main/Table%20Creation.sql)
   * [Joins and Aggregations](https://github.com/pooja2434/SQL-Projects/blob/main/Joins.sql)
   * [Window Functions](https://github.com/pooja2434/SQL-Projects/blob/main/Windowfunctions.sql)
   * [CTE, Case & Subqueries](https://github.com/pooja2434/SQL-Projects/blob/main/CTE%2C%20Case%20%26%20Subqueries.sql)
