@@ -24,7 +24,7 @@ This project contains [SQL examples](https://github.com/pooja2434/SQL-Projects) 
   * [CTE, Case & Subqueries](https://github.com/pooja2434/SQL-Projects/blob/main/CTE%2C%20Case%20%26%20Subqueries.sql)
   * [Union , Union ALL, View](https://github.com/pooja2434/SQL-Projects/blob/main/Union%20%2C%20Union%20ALL%2C%20View.sql)
 
-1. Python Examples
+2. Python Examples
 This project contains [Python examples](https://github.com/pooja2434/Python-Projects) designed for beginners and intermediate users. It utilizes collection of Python scripts showcasing my journey from the basics to intermediate and advanced concepts.
 
   * [Basics)](https://github.com/pooja2434/Python-Projects/blob/main/Basics.ipynb)
