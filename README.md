@@ -1,5 +1,7 @@
 # Data Analytics Projects Repository
 
+## 🛠️ Projects Portfolio
+
 👋 Welcome to my GitHub repository showcasing data analysis projects. With 6 +  years of experience as a Data Analyst, I have worked across diverse domains including **E-commerce, Investment Banking, Animal Husbandry, Aquaculture, and Logistics**. My technical expertise spans **SQL, Python, Statistics, Machine Learning, Tableau, Zoho Analytics** and I am currently learning **PySpark**.
 
 🛠️ Skills and Technologies
@@ -15,7 +17,7 @@
 
 📂 Repository Contents
 
-1. SQL Examples
+1. 🗄️ SQL Queries
 This project contains [SQL examples](https://github.com/pooja2434/SQL-Projects) designed for beginners and intermediate users. It utilizes sample datasets and includes queries that demonstrate:
 
   * [Table Creation (Primary Key, Foreign Key, Unique)](https://github.com/pooja2434/SQL-Projects/blob/main/Table%20Creation.sql)
@@ -24,7 +26,7 @@ This project contains [SQL examples](https://github.com/pooja2434/SQL-Projects) 
   * [CTE, Case & Subqueries](https://github.com/pooja2434/SQL-Projects/blob/main/CTE%2C%20Case%20%26%20Subqueries.sql)
   * [Union , Union ALL, View](https://github.com/pooja2434/SQL-Projects/blob/main/Union%20%2C%20Union%20ALL%2C%20View.sql)
 
-2. Python Examples
+2. 🐍 Python Examples
 This project contains [Python examples](https://github.com/pooja2434/Python-Projects) designed for beginners and intermediate users. It utilizes collection of Python scripts showcasing my journey from the basics to intermediate and advanced concepts.
 
   * [Basics)](https://github.com/pooja2434/Python-Projects/blob/main/Basics.ipynb)
@@ -33,7 +35,7 @@ This project contains [Python examples](https://github.com/pooja2434/Python-Proj
   * [Python Programs](https://github.com/pooja2434/Python-Projects/blob/main/Basic%20Python%20programs.ipynb)
   * [Loops](https://github.com/pooja2434/Python-Projects/blob/main/Loops%20Progams.ipynb)
 
-3. Python Report Automation.
+3. 🐍 Python Automation
   This Project Contain [Report Automation by using Python](https://github.com/pooja2434/Report-Automation-Python-Project) This project automates data cleaning, SQL query execution, and email reporting. It is modular, secure, and designed to run via Anaconda Prompt or be scheduled using batch scripts / Task Scheduler. Report Automation with Python
 
 Objective:
@@ -72,9 +74,9 @@ An interactive Streamlit app that demonstrates basic **data cleaning workflows**
 - Deployable for anyone to explore  
 
 🔗 [View Project Repository](https://github.com/pooja2434/simple-data-cleaning-app)
-[App Review](https://github.com/pooja2434/simple-data-cleaning-app/blob/master/Streamlit%20-%20Local%20host.png)
+![App Review](https://github.com/pooja2434/simple-data-cleaning-app/blob/master/Streamlit%20-%20Local%20host.png)
 
-4. Tableau Dashboards
+4. 📊 Tableau Dashboards
 Welcome to my Tableau Dashboard Portfolio. This repository showcases some of my best Tableau projects with a short description and preview.  
 *  ![University Costs Dashboard](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%20Image.png)
 [View on Tableau public](https://public.tableau.com/app/profile/pooja2481/viz/AverageUniversityCosts-Conceptsappliedgrey/Dashboard2)
