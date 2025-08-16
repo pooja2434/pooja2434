@@ -30,6 +30,11 @@ This project contains [Python examples](https://github.com/pooja2434/Python-Proj
   * [Basics)](https://github.com/pooja2434/Python-Projects/blob/main/Basics.ipynb)
   * [Datatypes](https://github.com/pooja2434/Python-Projects/blob/main/Datatypes.ipynb)
   * [Pandas Data Cleaning](https://github.com/pooja2434/Python-Projects/blob/main/Pandas%20Data%20Cleaning.ipynb)
+  * [Python Programs](https://github.com/pooja2434/Python-Projects/blob/main/Basic%20Python%20programs.ipynb)
+  * [Loops](https://github.com/pooja2434/Python-Projects/blob/main/Loops%20Progams.ipynb)
+
+3. Python Report Automation.
+  This Project Contain [Report Automation by using Python](https://github.com/pooja2434/Report-Automation-Python-Project) This project automates data cleaning, SQL query execution, and email reporting. It is modular, secure, and designed to run via Anaconda Prompt or be scheduled using batch scripts / Task Scheduler
  
 
 🎯 Current Focus
