@@ -64,6 +64,16 @@ Benefits:
 
   [View Repository](https://github.com/pooja2434/Report-Automation-Python-Project)
 
+5. ## 🚀 Featured Project: Simple Data Cleaning App
+An interactive Streamlit app that demonstrates basic **data cleaning workflows** for sales data.  
+- Built with **Python (pandas) + Streamlit**  
+- Handles missing values, duplicates, and formatting issues  
+- Compare raw vs. cleaned dataset interactively  
+- Deployable for anyone to explore  
+
+🔗 [View Project Repository](https://github.com/pooja2434/simple-data-cleaning-app)
+[App Review](https://github.com/pooja2434/simple-data-cleaning-app/blob/master/Streamlit%20-%20Local%20host.png)
+
 4. Tableau Dashboards
 Welcome to my Tableau Dashboard Portfolio. This repository showcases some of my best Tableau projects with a short description and preview.  
 *  ![University Costs Dashboard](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%20Image.png)
