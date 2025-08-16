@@ -35,6 +35,10 @@ This project contains [Python examples](https://github.com/pooja2434/Python-Proj
 
 3. Python Report Automation.
   This Project Contain [Report Automation by using Python](https://github.com/pooja2434/Report-Automation-Python-Project) This project automates data cleaning, SQL query execution, and email reporting. It is modular, secure, and designed to run via Anaconda Prompt or be scheduled using batch scripts / Task Scheduler
+
+4. Tableau Dashboards
+
+[Dashboard](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%202.png)
  
 
 🎯 Current Focus
