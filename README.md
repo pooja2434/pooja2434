@@ -38,6 +38,8 @@ This project contains [Python examples](https://github.com/pooja2434/Python-Proj
 
 4. Tableau Dashboards
 
+Welcome to my Tableau Dashboard Portfolio. This repository showcases some of my best Tableau projects with a short description and preview.  
+![University Costs Dashboard](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%20Image.png)
 [Dashboard](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%202.png)
  
 
