@@ -37,10 +37,15 @@ This project contains [Python examples](https://github.com/pooja2434/Python-Proj
   This Project Contain [Report Automation by using Python](https://github.com/pooja2434/Report-Automation-Python-Project) This project automates data cleaning, SQL query execution, and email reporting. It is modular, secure, and designed to run via Anaconda Prompt or be scheduled using batch scripts / Task Scheduler
 
 4. Tableau Dashboards
-
 Welcome to my Tableau Dashboard Portfolio. This repository showcases some of my best Tableau projects with a short description and preview.  
-![University Costs Dashboard](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%20Image.png)
-[Dashboard](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%202.png)
+1. ![University Costs Dashboard](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%20Image.png)
+[View on Tableau public](https://public.tableau.com/app/profile/pooja2481/viz/AverageUniversityCosts-Conceptsappliedgrey/Dashboard2)
+
+2. ![Share of U.S. Adults that say it is wrong to eat certain animals - Recreation](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%202.png)
+ [View on Tableau public](https://public.tableau.com/app/profile/pooja2481/viz/ShareofU_S_Adultsthatsayitiswrongtoeatcertainanimals-Recreation/Dashboard1)
+
+3. ![Workout wednesday 2018 week 4  Customer Sales by year](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%203.png)
+ [View on Tableau public](https://public.tableau.com/app/profile/pooja2481/viz/Workoutwednesday2018week4-Recreation/Dashboard1)
  
 
 🎯 Current Focus
