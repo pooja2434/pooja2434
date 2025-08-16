@@ -34,17 +34,44 @@ This project contains [Python examples](https://github.com/pooja2434/Python-Proj
   * [Loops](https://github.com/pooja2434/Python-Projects/blob/main/Loops%20Progams.ipynb)
 
 3. Python Report Automation.
-  This Project Contain [Report Automation by using Python](https://github.com/pooja2434/Report-Automation-Python-Project) This project automates data cleaning, SQL query execution, and email reporting. It is modular, secure, and designed to run via Anaconda Prompt or be scheduled using batch scripts / Task Scheduler
+  This Project Contain [Report Automation by using Python](https://github.com/pooja2434/Report-Automation-Python-Project) This project automates data cleaning, SQL query execution, and email reporting. It is modular, secure, and designed to run via Anaconda Prompt or be scheduled using batch scripts / Task Scheduler. Report Automation with Python
+
+Objective:
+Automate repetitive reporting workflows by extracting, transforming, and distributing data insights with minimal manual effort.
+
+Key Features:
+* Data Extraction: Connects to SQL databases / CSV files to fetch raw data.
+* Data Transformation: Cleans and preprocesses datasets using pandas (handling nulls, formatting, aggregations).
+* Automated Reports: Generates daily/weekly reports in Excel, PDF, or email format.
+* Email Automation: Sends reports with attachments to recipients via SMTP (with To and CC support).
+* Error Handling: Built-in exception handling and logging to track failures.
+
+Tech Stack:
+* Python: pandas, smtplib, openpyxl, reportlab
+* SQL: Querying databases for live data
+* Scheduling: Automated runs using cron (Linux) / Task Scheduler (Windows)
+
+Workflow:
+* Fetch raw data (SQL / CSV).
+* Clean & transform data with Python.
+* Create summarized reports (Excel/PDF).
+* Email reports to stakeholders automatically.
+
+Benefits:
+* Saves 4–6 hours per week by eliminating manual reporting.
+* Ensures accuracy and consistency of data reports.
+* Provides timely insights to stakeholders with zero human delay.
+
+  [View Repository](https://github.com/pooja2434/Report-Automation-Python-Project)
 
 4. Tableau Dashboards
 Welcome to my Tableau Dashboard Portfolio. This repository showcases some of my best Tableau projects with a short description and preview.  
-1. ![University Costs Dashboard](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%20Image.png)
+*  ![University Costs Dashboard](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%20Image.png)
 [View on Tableau public](https://public.tableau.com/app/profile/pooja2481/viz/AverageUniversityCosts-Conceptsappliedgrey/Dashboard2)
-
-2. ![Share of U.S. Adults that say it is wrong to eat certain animals - Recreation](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%202.png)
+*  ![Share of U.S. Adults that say it is wrong to eat certain animals - Recreation](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%202.png)
  [View on Tableau public](https://public.tableau.com/app/profile/pooja2481/viz/ShareofU_S_Adultsthatsayitiswrongtoeatcertainanimals-Recreation/Dashboard1)
 
-3. ![Workout wednesday 2018 week 4  Customer Sales by year](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%203.png)
+*  ![Workout wednesday 2018 week 4  Customer Sales by year](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%203.png)
  [View on Tableau public](https://public.tableau.com/app/profile/pooja2481/viz/Workoutwednesday2018week4-Recreation/Dashboard1)
  
 
