@@ -2,7 +2,7 @@
 
 ## 🛠️ Projects Portfolio
 
-👋 Welcome to my GitHub repository showcasing data analysis projects. With 6 +  years of experience as a Data Analyst, I have worked across diverse domains including **E-commerce, Investment Banking, Animal Husbandry, Aquaculture, and Logistics**. My technical expertise spans **SQL, Python, Statistics, Machine Learning, Tableau, Zoho Analytics** and I am currently learning **PySpark**.
+👋 Welcome to my GitHub repository showcasing data analytics projects. With 6 +  years of experience as a Data Analyst, I have worked across diverse domains including **E-commerce, Investment Banking, Animal Husbandry, Aquaculture, and Logistics**. My technical expertise spans **SQL, Python, Statistics, Machine Learning, Tableau, Zoho Analytics** and I am currently learning **PySpark**.
 
 🛠️ Skills and Technologies
 * Data Analysis: SQL, Statistics, Python
