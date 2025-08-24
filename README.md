@@ -88,7 +88,6 @@ Welcome to my Tableau Dashboard Portfolio. This repository showcases some of my 
 *  ![Workout wednesday 2018 week 4  Customer Sales by year](https://github.com/pooja2434/Tableau-Dashboards/blob/main/Tableau%20Dashboard%203.png)
  [View on Tableau public](https://public.tableau.com/app/profile/pooja2481/viz/Workoutwednesday2018week4-Recreation/Dashboard1)
  
-
 🎯 Current Focus
 I am expanding my skill set by learning PySpark and working on big data projects to tackle larger datasets and complex processing tasks.
 
