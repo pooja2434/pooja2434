@@ -1,9 +1,9 @@
 # 👩‍💻 Pooja K R | Data Analyst
-🌍 Chennai, India | 📊 SQL • Python • Tableau • Machine Learning • Deep Learning (Learning) • Report Automation
+🌍 Chennai, India | 📊 SQL • Python • Tableau • Machine Learning • Deep Learning (Learning) • Report Automation • PySpark(Learning)
 
 🚀 About Me
 Dynamic and results-driven Data Analyst with 6+ years of experience across Investment Banking and Data Analytics.
-* 📈 Skilled in SQL, Python, Tableau, Excel, and Report Automation
+* 📈 Skilled in SQL, Python, Tableau, Zoho analytics, Excel, Machine Learning and Report Automation
 * ⚡ Built automated reporting pipelines that saved 6+ hours per week
 * 🤖 Knowledge with Machine Learning models (Regression, Classification, Clustering)
 * 🧠 Currently learning Deep Learning
@@ -13,38 +13,46 @@ Dynamic and results-driven Data Analyst with 6+ years of experience across Inves
 
 🛠 Tech Stack
 
-💾 SQL | 🐍 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) | 📊 Tableau | 📈 Excel | 🤖 Machine Learning | 🧠 Deep Learning (Learning) | 🔄 Data Cleaning | ⚙️ Automation | 📦 PySpark
+💾 SQL | 🐍 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) | 📊 Tableau | 📈 Excel | 🤖 Machine Learning | 🧠 Deep Learning (Learning) | 🔄 Data Cleaning | ⚙️ Automation | 📦 PySpark (Learning)
 
 ## 🛠️ Projects Portfolio
 
-🔹 [SQL examples](https://github.com/pooja2434/SQL-Projects)
+### 🔹 [SQL examples](https://github.com/pooja2434/SQL-Projects)
 
-📂 Business case studies solved with SQL.
+✔️ Joins, Aggregations, CTEs, Window Functions. Business case studies solved with SQL.
 
-✔️ Joins, Aggregations, CTEs, Window Functions.
+ * [Table Creation](https://github.com/pooja2434/SQL-Projects/blob/main/Table%20Creation.sql)
+ * [Joins &Aggregations](https://github.com/pooja2434/SQL-Projects/blob/main/Joins.%20%26%20Aggregation.sql)
+ * [Union,Union All, View](https://github.com/pooja2434/SQL-Projects/blob/main/Union%20%2C%20Union%20ALL%2C%20View.sql)
+ * [CTE,CASE,Sub Queries](https://github.com/pooja2434/SQL-Projects/blob/main/CTE%2C%20Case%20%26%20Subqueries.sql)
+ * [Window Functions](https://github.com/pooja2434/SQL-Projects/blob/main/Windowfunctions.sql)
+ * [Leetcode Easy SQL Problems](https://github.com/pooja2434/SQL-Projects/blob/main/Leet%20Code%20Q%26A%20Easy.sql)
+  
+### 🔹 [Python Projects (Basics & Automation)](https://github.com/pooja2434/Python-Projects)
 
-🔹 Python Projects (Basics & Automation)
+1. Python Projects(Basics & Intermediate)
+✔️ Loops, functions, data cleaning, Pandas exercises
+* [Basics](https://github.com/pooja2434/Python-Projects/blob/main/Basics.ipynb)
+* [Basic Python programs](https://github.com/pooja2434/Python-Projects/blob/main/Basic%20Python%20programs.ipynb)
+* [Loops Progams](https://github.com/pooja2434/Python-Projects/blob/main/Loops%20Progams.ipynb)
+* [Pandas Data Cleaning](https://github.com/pooja2434/Python-Projects/blob/main/Pandas%20Data%20Cleaning.ipynb)
+* [Advanced Functions](https://github.com/pooja2434/Python-Projects/blob/main/Advanced%20Functions.ipynb)
 
-1. 🐍 [Report Automation](https://github.com/pooja2434/Report-Automation-Python-Project)
+2. 🐍 [Report Automation](https://github.com/pooja2434/Report-Automation-Python-Project)
 * Automated weekly sales reports (Excel/PDF + Email)
 * Saved 4–6 hours/week for business teams
 
-2.🧹 [Simple Data Cleaning App (Streamlit)](https://github.com/pooja2434/simple-data-cleaning-app)
+3.🧹 [Simple Data Cleaning App (Streamlit)](https://github.com/pooja2434/simple-data-cleaning-app)
 * Upload CSV → Clean with Pandas → Download processed file
 * Built with Python + Streamlit
 
-3.📂 [Basic Python Scripts](https://github.com/pooja2434/Python-Projects)
-* Loops, functions, data cleaning, Pandas exercises
-* Great for Python interview prep
 
-🔹 Tableau Dashboards
-
-📂[Tableau Dashboards](https://github.com/pooja2434/Tableau-Dashboards)
+### 🔹 [Tableau Dashboards](https://github.com/pooja2434/Tableau-Dashboards)
 
 📊 Business dashboards on Tableau Public 
 🔗 [View My Profile]((https://public.tableau.com/app/profile/pooja2481/vizzes))
-* [View on Tableau public](https://public.tableau.com/app/profile/pooja2481/viz/ShareofU_S_Adultsthatsayitiswrongtoeatcertainanimals-Recreation/Dashboard1)
-*  [Dashboard Recreation](https://public.tableau.com/app/profile/pooja2481/viz/Workoutwednesday2018week4-Recreation/Dashboard1)
+* [ShareofU_S_Adultsthatsayitiswrongtoeatcertainanimals-Recreation View on Tableau public](https://public.tableau.com/app/profile/pooja2481/viz/ShareofU_S_Adultsthatsayitiswrongtoeatcertainanimals-Recreation/Dashboard1)
+*  [Workoutwednesday Dashboard Recreation](https://public.tableau.com/app/profile/pooja2481/viz/Workoutwednesday2018week4-Recreation/Dashboard1)
 
 🏆 Highlights
 * 🥇 Multiple awards for automation & analytics excellence
