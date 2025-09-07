@@ -12,6 +12,12 @@ Dynamic and results-driven Data Analyst with 6+ years of experience across Inves
 * ✨ Turning raw data into actionable insights & powerful stories.
 * Please find my [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-Portfolio./blob/main/Aug'25%20Resume%20Pooja.pdf) here.
 
+* 📬 How to reach me
+LinkedIn: [Profile](https://www.linkedin.com/in/pooja-ravi-11a449204/)  
+Tableau Public: [My Profile](https://public.tableau.com/app/profile/pooja2481/vizzes)
+Email: pjravilakshmi@gmail.com
+My Resume: [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-Portfolio./blob/main/Aug'25%20Resume%20Pooja.pdf) here.
+
 🛠 Tech Stack
 
 💾 SQL | 🐍 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) | 📊 Tableau | 📈 Excel | 🤖 Machine Learning | 🧠 Deep Learning (Learning) | 🔄 Data Cleaning | ⚙️ Automation | 📦 PySpark (Learning)
@@ -60,11 +66,5 @@ Dynamic and results-driven Data Analyst with 6+ years of experience across Inves
 * 🥇 Multiple awards for automation & analytics excellence
 * 💡 Delivered insights across 5+ industries
 * 📢 Passionate about data storytelling & advanced analytics
-
-📬 Contact Me
-LinkedIn: [Profile](https://www.linkedin.com/in/pooja-ravi-11a449204/)  
-Tableau Public: [My Profile](https://public.tableau.com/app/profile/pooja2481/vizzes)
-Email: pjravilakshmi@gmail.com
-My Resume: [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-Portfolio./blob/main/Aug'25%20Resume%20Pooja.pdf) here.
 
 ✨ “Data + Automation + Machine Learning = Smarter Decisions.”
