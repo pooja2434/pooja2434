@@ -53,6 +53,7 @@ Dynamic and results-driven Data Analyst with 6+ years of experience across Inves
 🔗 [View My Profile]((https://public.tableau.com/app/profile/pooja2481/vizzes))
 * [ShareofU_S_Adultsthatsayitiswrongtoeatcertainanimals-Recreation View on Tableau public](https://public.tableau.com/app/profile/pooja2481/viz/ShareofU_S_Adultsthatsayitiswrongtoeatcertainanimals-Recreation/Dashboard1)
 *  [Workoutwednesday Dashboard Recreation](https://public.tableau.com/app/profile/pooja2481/viz/Workoutwednesday2018week4-Recreation/Dashboard1)
+*  [Average University Costs Dashboard](https://public.tableau.com/app/profile/pooja2481/viz/AverageUniversityCosts-Conceptsappliedgrey/Dashboard2)
 
 🏆 Highlights
 * 🥇 Multiple awards for automation & analytics excellence
