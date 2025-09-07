@@ -1,7 +1,7 @@
 # 👩‍💻 Pooja K R | Data Analyst
 🌍 Chennai, India | 📊 SQL • Python • Tableau • Machine Learning • Deep Learning (Learning) • Report Automation • PySpark(Learning)
 
-🚀 About Me
+## 🚀 About Me
 Dynamic and results-driven Data Analyst with 6+ years of experience across Investment Banking and Data Analytics.
 * 📈 Skilled in SQL, Python, Tableau, Zoho analytics, Excel, Machine Learning and Report Automation
 * ⚡ Built automated reporting pipelines that saved 6+ hours per week
@@ -12,13 +12,13 @@ Dynamic and results-driven Data Analyst with 6+ years of experience across Inves
 * ✨ Turning raw data into actionable insights & powerful stories.
 * Please find my [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-Portfolio./blob/main/Aug'25%20Resume%20Pooja.pdf) here.
 
-* 📬 How to reach me
+##  📬 How to reach me
 LinkedIn: [Profile](https://www.linkedin.com/in/pooja-ravi-11a449204/)  
 Tableau Public: [My Profile](https://public.tableau.com/app/profile/pooja2481/vizzes)
 Email: pjravilakshmi@gmail.com
 My Resume: [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-Portfolio./blob/main/Aug'25%20Resume%20Pooja.pdf) here.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 💾 SQL | 🐍 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) | 📊 Tableau | 📈 Excel | 🤖 Machine Learning | 🧠 Deep Learning (Learning) | 🔄 Data Cleaning | ⚙️ Automation | 📦 PySpark (Learning)
 
@@ -62,7 +62,7 @@ My Resume: [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-P
 *  [Workoutwednesday Dashboard Recreation](https://public.tableau.com/app/profile/pooja2481/viz/Workoutwednesday2018week4-Recreation/Dashboard1)
 *  [Average University Costs Dashboard](https://public.tableau.com/app/profile/pooja2481/viz/AverageUniversityCosts-Conceptsappliedgrey/Dashboard2)
 
-🏆 Highlights
+## 🏆 Highlights
 * 🥇 Multiple awards for automation & analytics excellence
 * 💡 Delivered insights across 5+ industries
 * 📢 Passionate about data storytelling & advanced analytics
