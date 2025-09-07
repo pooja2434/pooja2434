@@ -1,4 +1,5 @@
 # 👩‍💻 Pooja K R | Data Analyst
+Hi, I'm Pooja! A passionate Data Analyst with a strong foundation in SQL, Python, and Machine Learning, Automation. I enjoy transforming data into actionable insights and building automated solutions.
 🌍 Chennai, India | 📊 SQL • Python • Tableau • Machine Learning • Deep Learning (Learning) • Report Automation • PySpark(Learning)
 
 ## 🚀 About Me
