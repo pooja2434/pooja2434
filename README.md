@@ -53,6 +53,14 @@ My Resume: [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-P
 * Upload CSV → Clean with Pandas → Download processed file
 * Built with Python + Streamlit
 
+### 🧠Machine Learning Projects
+📌 [House Price Prediction](https://github.com/pooja2434/House-prediction/blob/main/House%20Price%20Prediction%20using%20Linear%20Regression.ipynb)
+* Description: Developed a linear regression model to predict house prices based on various features.
+* Technologies Used: Python, Pandas, Scikit-learn
+* Key Highlights:
+    * Data preprocessing and feature engineering.
+    * Model evaluation using R² and RMSE metrics.
+    * Visualization of predicted vs. actual prices.
 
 ### 🔹 [Tableau Dashboards](https://github.com/pooja2434/Tableau-Dashboards)
 
