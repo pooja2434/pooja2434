@@ -35,6 +35,7 @@ My Resume: [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-P
  * [CTE,CASE,Sub Queries](https://github.com/pooja2434/SQL-Projects/blob/main/CTE%2C%20Case%20%26%20Subqueries.sql)
  * [Window Functions](https://github.com/pooja2434/SQL-Projects/blob/main/Windowfunctions.sql)
  * [Leetcode Easy SQL Problems](https://github.com/pooja2434/SQL-Projects/blob/main/Leet%20Code%20Q%26A%20Easy.sql)
+ * [Linked IN Q&A](https://github.com/pooja2434/SQL-Projects/blob/main/Linked%20In%20Q%26A%20-%20Part%201%20.sql)
   
 ### 🔹 [Python Projects (Basics & Automation)](https://github.com/pooja2434/Python-Projects)
 
