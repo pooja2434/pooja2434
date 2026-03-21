@@ -17,7 +17,7 @@ Dynamic and results-driven Data Analyst with 6+ years of experience across Inves
 LinkedIn: [Profile](https://www.linkedin.com/in/pooja-ravi-11a449204/)  
 Tableau Public: [My Profile](https://public.tableau.com/app/profile/pooja2481/vizzes)
 Email: pjravilakshmi@gmail.com
-My Resume: [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-Portfolio./blob/main/Aug'25%20Resume%20Pooja.pdf) here.
+My Resume: [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-Portfolio./blob/main/POOJA%20RAVI%20.pdf) here.
 
 ## 🛠 Tech Stack
 
