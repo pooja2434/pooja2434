@@ -11,7 +11,7 @@ Dynamic and results-driven Data Analyst with 6+ years of experience across Inves
 * 📊 Experienced across E-commerce, Banking, Logistics, Aquaculture, Animal Husbandry
 * 🌱 Currently learning PySpark to scale analytics on big data
 * ✨ Turning raw data into actionable insights & powerful stories.
-* Please find my [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-Portfolio./blob/main/Pooja%20Resume%20Sep'25.pdf) here
+* Please find my [Resume](https://github.com/pooja2434/PoojaRavilakshmi-Data-Analyst-Portfolio./blob/main/POOJA%20RAVI%20.pdf) here
 
 ##  📬 How to reach me
 LinkedIn: [Profile](https://www.linkedin.com/in/pooja-ravi-11a449204/)  
